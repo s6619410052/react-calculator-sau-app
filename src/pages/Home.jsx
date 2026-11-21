@@ -29,7 +29,7 @@ export default function Home() {
           </Link>
 
           <Link to="/car">
-            <CardMenu imgShow={Car} titleShow="CAR (คำนวณเงินผ่อน)" stitleShow=" คำนวณเงินผ่อนรถยนต์หรือรถเครื่องต่อเดือน" />
+            <CardMenu imgShow={Car} titleShow="CAR (การคำนวณเงินผ่อน)" stitleShow=" คำนวณเงินผ่อนรถยนต์หรือรถเครื่องต่อเดือน" />
           </Link>
 
         </div>
